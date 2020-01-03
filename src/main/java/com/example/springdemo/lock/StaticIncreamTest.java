@@ -39,6 +39,7 @@ public class StaticIncreamTest {
 //        for (int i = 0; i < 100; i++) {
             StaticIncreamTest staticIncreamTest = new StaticIncreamTest();
             staticIncreamTest.run();
+
 //        }
 
     }
