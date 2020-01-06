@@ -42,13 +42,12 @@ public class SwitchTest {
 
     public static void testSwitchString(){
 
-        String string1= "1";
-
+        String string1= "ABCDFB123abc";
         switch (string1){
-            case "1":
+            case "ABCDEa123abc":
                 System.out.println("1"+ string1);
                 break;
-            case "2":
+            case "ABCDFB123abc":
                 System.out.println("2" + string1);
                 break;
             case "3":
