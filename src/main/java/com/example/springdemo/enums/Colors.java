@@ -1,4 +1,12 @@
 package com.example.springdemo.enums;
 
-public class Colors {
+public enum  Colors {
+    RED,
+    BLUE;
+
+
+    Colors() {
+    }
+
+
 }
